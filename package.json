@@ -1,0 +1,14 @@
+{
+  "name": "chatbot",
+  "version": "1.0.0",
+  "description": "Cortana Chatbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "chat <message>"
+  },
+  "author": "jason moore",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.14.1"
+  }
+}
